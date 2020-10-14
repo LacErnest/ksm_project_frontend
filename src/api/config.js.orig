@@ -1,0 +1,13 @@
+import axios from 'axios'
+
+export default axios.create({
+    baseURL: `https://anselme.pythonanywhere.com/product-api/`,
+    headers: {
+<<<<<<< HEAD
+        'Content-Type': 'application/json',
+        'Authorization': 'Token f67d02ef7854fdd8cc6eaea11082257051cf6dc6',
+=======
+        'Authorization': 'Token a58c036f57d87686b9606e1b6351d8e2a78a7d7a',
+>>>>>>> fb-amelioration_interface-md_product
+    }
+})

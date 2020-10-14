@@ -1,0 +1,38 @@
+#infos,#ajout,#suppression,#edition,#save,#annuler
+{
+    border-radius: 10px;
+}
+
+#infos:hover{
+    color:lightBlue;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(65,5,5,0.19);
+}
+
+#suppression:hover{
+    color:red
+}
+
+#edition:hover{
+    color:orange;
+    
+    
+  
+}
+
+#save:hover
+{
+    color: blue;
+}
+#annuler:hover
+{
+    color: black;
+}
+#edition:hover
+{
+    color: yellow;
+}
+
+
+#ajout:hover{
+    color:blue
+}

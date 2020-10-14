@@ -1,0 +1,12 @@
+.resizable-content-standard {
+    resize: vertical;
+    overflow: auto;
+}
+
+
+.resizable-content-custom{
+
+    resize: vertical;
+    overflow: auto;
+    max-height: 300px;
+}
